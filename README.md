@@ -13,7 +13,7 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 
-Prepare Python 3.5 env
+Prepare Python 3.6 env
 ```bash
 sudo apt-get install python3.6
 sudo pip3 install virtualenv
